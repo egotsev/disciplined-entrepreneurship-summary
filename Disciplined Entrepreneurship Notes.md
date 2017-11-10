@@ -124,4 +124,23 @@ This will need some assumptions. Try to calculate how much the user is spending 
 Generally a TAM between $20 and $100 million per year is a good target. It is possible though that an initial TAM of $5 million per year could be a successful business, if you can capture the market quickly and convincingly, especially if the gross margins on your product would be very high (e.g., 90 percent as it would be for software, mobile apps, information-based business models) and you do not need a lot of employees to do it.
 
 As these steps are meant to be part of iterative approach, latter revisit of the TAM will lead to a more credible estimation.
-As you
+
+# 5. Profile the Persona for the Beachhead Market
+
+The End User Profile is a composite of a person that represents the primary customer for the beachhead market. The Persona is a concrete person who best represents the primary customer (however he won't ideally match the end user profile). Making this way the end user tangible helps the founding team to focus on making target customer happy. He can resolve all arguments definitively instead of making guesses.
+
+This is not just an exercise but the Persona should be the first thing to think when taking decisions about going forward. What features should you prioritize or drop? How should you allocate resouces? Who should you hire to sell the product?
+
+**Multiple personas?** Only if you have multi-sided market (e.g. ebay with buyer and seller).
+
+## How to choose and profile the Persona
+
+* The process should include all key members of the team.
+* Pick one user from a successful customer that you already sold to or from a really interested customer from the primary market research.
+* Don't worry too much, make your best guess
+* Prepare a fact sheet about the Persona (both personal and professional information); it must be very specific
+* List the Persona's purchaising criteria in prioritized order
+* Interview the end user who is your Persona and ill the gaps
+* Summarize and post it on a big sheet of paper on the wall
+
+
