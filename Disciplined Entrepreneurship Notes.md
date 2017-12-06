@@ -51,8 +51,7 @@ Organize research:
 6. Partners/Players: Which companies will you need to work with to provide a solution that integrates into the customer’s workflow?
 7. Size of the Market: Roughly, how many potential customers exist if you achieve 100 percent market penetration?
 8. Competition: Who is making similar products — real or perceived? (from the customer’s perspective)
-9. Complementary Assets Required: What else does your customer need in order to get the “full solution,” that is, to get full functionality from your product? You will likely need to bundle your product with products from other manufacturers so that customers can easily buy your
-product and have full functionality.
+9. Complementary Assets Required: What else does your customer need in order to get the “full solution,” that is, to get full functionality from your product? You will likely need to bundle your product with products from other manufacturers so that customers can easily buy your product and have full functionality.
 
 # 2. Selecting beachhead market
 
@@ -63,8 +62,7 @@ Being focused is extremely important. You should continue segmenting until your 
 ## Three Conditions That Define a Market
 1. The customers within the market all buy similar products.
 2. The customers within the market have a similar sales cycle and expect products to provide value in similar ways. Your salespeople can shift from selling to one customer to selling to a different customer and still be very effective with little or no loss of productivity.
-3. There is “word of mouth” between customers in the market, meaning they can serve as compelling and high-value references for each other in making purchases. For example, they may belong to the same professional organizations or operate in the same region. If you find a
-potential market opportunity where the customers do not talk to each other, you will find it difficult for your startup to gain traction.
+3. There is “word of mouth” between customers in the market, meaning they can serve as compelling and high-value references for each other in making purchases. For example, they may belong to the same professional organizations or operate in the same region. If you find a potential market opportunity where the customers do not talk to each other, you will find it difficult for your startup to gain traction.
 
 # 3. Build end user profile
 
@@ -143,4 +141,26 @@ This is not just an exercise but the Persona should be the first thing to think 
 * Interview the end user who is your Persona and ill the gaps
 * Summarize and post it on a big sheet of paper on the wall
 
+# 6. Full Life Cycle Use Case
+
+Important to be (as everything else) through the eyes of the customer.
+
+Essential factors part of the FLCUC:
+
+1. How end users will determine they have a need and/or opportunity to do something different; why existing producst don't meet their needs and how you meet these needs
+2. How they will find out about your product.
+3. How they will analyze your product.
+4. How they will acquire your product.
+5. How they will install your product.
+Customers who are generally satisfied with their workflow will rarely want to radically overhaul their process even if your product provides benefits over their current system.
+6. How they will use your product (in detail).
+7. How they will determine the value gained from your product.
+8. How they will pay for your product.
+9. How they will receive support for your product.
+10. How they will buy more product and/or spread awareness (hopefully positive) about your product.
+
+The Full Life Cycle Use Case should be visual, using diagrams, flowcharts, or other methods that show sequence.
+
+Start by mapping out the process from beginning to end for your Persona and then check to see if it is consistent with
+other potential customers as well.
 
