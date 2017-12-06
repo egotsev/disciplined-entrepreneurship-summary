@@ -164,3 +164,13 @@ The Full Life Cycle Use Case should be visual, using diagrams, flowcharts, or ot
 Start by mapping out the process from beginning to end for your Persona and then check to see if it is consistent with
 other potential customers as well.
 
+# 7. High-Level Product Specification
+
+A High-Level Product Specification is, at its core, a drawing. It is something you draw without understanding all the underlying details, but which gains consensus within your team on where you are going. If the product is software or a website, storyboards should be made showing the user’s logical flow from one screen to another. If it is hardware, then diagrams are useful. The key here is that you have something concrete and specific enough that your team understands thoroughly.
+
+This simple visual representation of your product can now also be shared with potential customers, immediately generating an unambiguous understanding of your product. You are not selling the product, but are merely iterating with customers so that you more thoroughly understand the strengths and weaknesses of your product spec.
+
+## Make a product brochure
+
+The process of identifying and outlining your High-Level Product Specification is further strengthened by describing the various features of your product, explaining how these features translate into function, and most importantly, describing the benefits your customer gains from each. Be specific about what you are offering, and how each component of the offering benefits the customer.
+
