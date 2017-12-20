@@ -174,3 +174,16 @@ This simple visual representation of your product can now also be shared with po
 
 The process of identifying and outlining your High-Level Product Specification is further strengthened by describing the various features of your product, explaining how these features translate into function, and most importantly, describing the benefits your customer gains from each. Be specific about what you are offering, and how each component of the offering benefits the customer.
 
+# 8. Quantify the Value Proposition
+
+Quantified Value Proposition = the benefits the Persona will get from the product turned into a tangible metric that aligns with the Persona's top priority(ies).
+In a simple view of the world, benefits fall into three categories: better, faster and cheaper.
+
+## Aligning the value proposition with the Persona's priorities
+
+If their top priority is time to market for producing goods, and your product’s value is that it will lower the cost of production, your value proposition will not persuade your target customer to buy your product. And if your product *also* lowers the time to market, you should focus your Quantified Value Proposition on that.
+
+## The "as-is" state vs the "possible" state with the product
+
+You need a simple comparison that is as quantifiable as possible.
+
