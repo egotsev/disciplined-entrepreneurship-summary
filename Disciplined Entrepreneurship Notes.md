@@ -187,3 +187,24 @@ If their top priority is time to market for producing goods, and your product’
 
 You need a simple comparison that is as quantifiable as possible.
 
+# 9. Identify Your Next 10 Customers
+
+One potential danger of focusing solely on your Persona is that you could build your business to be too specific, focused only on the Persona without the ability to sell to other customers. If the Persona is done correctly, this will not happen. The TAM calculation was the first checkpoint to guard against hyper-focus; this step is another one. Also, the output of this step, a list of 10 potential customers beyond your Persona, will be highly beneficial to you as you proceed.
+
+Some negative feedback is expected. If the only feedback you get is “everything is okay,” then it is likely that the customer doesn’t care much about your product and its value to them.
+
+## Steps to complete the task
+
+1. List more than 10 potential customers and include any information about them from the existing research. Each of them should be similar to each other and to the Persona.
+2. Contact each potential customer on the list and present the Full Life Cycle Use Case, the High-Level Product Specification and the Quantified Value Proposition. Determine whether the customer’s needs and ideas are in line with what you’ve established thus far. Especially validate the hypothesis regarding the Persona’s top purchasing priorities.
+3. If a customer validates your hypothereses, ask if they would consider providing a letter of intent to buy your solution. If they are extremely enthusiastic, you can even ask them to prepay for the product.
+4. If the feedback is not aligned exactly with your assumptions, take good notes and think how this affects your analysis.
+5. Possibly having new data, go back and revisit some of your earlier assumptions. Determine whether to contact additional customers (the target is 10 customers who are truely intereseted in the product and are aligned with the Persona).
+6. If you cannot create a list of 10 such customers, you may need to reconsider the beachhead market.
+7. Do not share the list of customers or gathered info  with others outside the company.
+
+## Is the current Persona valid?
+
+If the Persona is a statistical outlier relative to the target customer group, it will not only be a poor source of information, but it will lead you to develop a product your target customer might not want. While validating the Persona, you may also uncover other interesting traits that customers share with the Persona, which will allow you to revise the description of the Persona to make it stronger.
+
+
