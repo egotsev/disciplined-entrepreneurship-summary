@@ -248,3 +248,29 @@ Create a simple matrix/graph as follows:
 5. On the y-axis, place the number-two priority of your Persona. Write the “bad state” on the half of the y-axis closer to the origin, and the “good state” on the other half of the y-axis.
 6. Plot your business on the graph, along with those of your competitors (current and future). Also include the customer’s “do nothing” or “status quo” option.
 
+# 12. Determine the Customer’s Decision-Making Unit (DMU)
+
+## Primary Roles
+
+ * Champion: The champion is the person who wants the customer to purchase the product, typically but not necessarily your end user.
+ * End User: This is the person who will actually use the product to create the value that is described in Step 8. Plays a significant role in the purchase of a product.
+ * Primary Economic Buyer: This is the primary decision maker, as everyone else looks to this person to sign off on spending money to purchase your product.
+
+## Secondary Roles
+
+ * Primary and Secondary Influencers: These individuals often have a depth of experience in the subject matter, and can influence the rest of the DMU. They can also be not individuals within the company but web sites, blogs, public figures, etc.
+ * Person with Veto Power: These individuals have the ability to reject a purchase for any reason. Often, in a B2B environment, this individual outranks the advocate or end user in a corporate hierarchy.
+ * Purchasing Department: This department handles the logistics of the purchase. They can be another obstacle, as this department often looks to drive prices down, even after the decision to purchase has been made.
+
+## How to determine the decision-making unit?
+
+Operating in "inquiry" mode talk with the customer to gather information about the DMU. This is an excellent time to ask the customer:
+
+ * Assuming we could produce the product we have described, what would need to be done to bring a product in to test out?
+ * Who besides you (make sure you make them feel good!) would be involved in the decision to bring our product in? Who will have the most influence? Who could stop this from happening?
+ * Assuming the product does what we believe it will do, whose budget will the money come from to pay for it? Does this person need anyone else to sign off on this budget?
+ * Who will feel threatened by this and how will they react?
+
+If the Advocate or Primary Economic Buyer are not your Persona, you will want to build a fact sheet similar to your Persona fact sheet for the individual in each role.
+
+
