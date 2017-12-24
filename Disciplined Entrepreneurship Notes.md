@@ -234,3 +234,17 @@ It should integrate many different considerations: what the customer wants, what
 4. **First-mover Advantage:** The term refers to a company being successful solely by being the first in the market. However, most companies that are first to market end up losing the market to a later entrant who outperforms the first company. It is advantage but cannot be your Core.
 5. **Locking up Suppliers:** One way to gain a competitive advantage is to anticipate the key elements of your solution and lock in vendors on an exclusive or a functionally exclusive arrangement. It is a good strategy to slow down your competitors but it is not your ultimate Core.
 
+# 11. Chart Your Competitive Position
+
+The chart shows the position of your competitors and you aligned with the customers top two priorities. It also marks the current status quo of the customer – which is the toughest competitor of all.
+
+## How to do it?
+
+Create a simple matrix/graph as follows:
+1. Divide both the x-axis and y-axis into two halves.
+2. On the x-axis, write the number-one priority of your Persona.
+3. On the half of the x-axis closer to the origin, write the “bad state” of this priority (e.g., if the priority is “reliability” then write “low” here).
+4. On the other half of the x-axis, write the “good” state of this priority (e.g., “high” for “reliability”).
+5. On the y-axis, place the number-two priority of your Persona. Write the “bad state” on the half of the y-axis closer to the origin, and the “good state” on the other half of the y-axis.
+6. Plot your business on the graph, along with those of your competitors (current and future). Also include the customer’s “do nothing” or “status quo” option.
+
