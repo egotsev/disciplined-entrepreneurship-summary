@@ -207,4 +207,30 @@ Some negative feedback is expected. If the only feedback you get is “everythin
 
 If the Persona is a statistical outlier relative to the target customer group, it will not only be a poor source of information, but it will lead you to develop a product your target customer might not want. While validating the Persona, you may also uncover other interesting traits that customers share with the Persona, which will allow you to revise the description of the Persona to make it stronger.
 
+# 10. Define Your Core
+
+It is something that you do that will make you better (more effective) than anyone else at producing a solution for your customers. That single thing that will make it very difficult for the next company that tries to do what you do. It could be a very small part of the overall solution, but without it, you don’t have nearly as valuable a solution.
+
+
+
+## Examples:
+
+1. **Network Effect:** You become the standard by achieving so much critical mass in the marketplace that it does not make sense for potential customers to use another product (eBay, LinkedIn, Facebook, Google).
+2. **Customer Service:** By establishing processes and culture that focus on excelling at customer service, this potential core allows you to retain customers at a very high rate as compared to competitors. It will also allow you to attract and obtain customers in a much more efficient way, as your customers become salespeople for you.
+3. **Lowest Cost:** Often it is not a Core, but rather an entry strategy for companies who then choose to compete on something else.
+4. **User Experience:** The strategy here would be to become the best at developing and continually improving the UX through the company’s emphasis on it (Apple).
+
+## How to define the core?
+
+Defining the Core is more inward-looking and less research-based than the other steps so far. You will rely on this internal introspection, combined with external data gathering and analysis.
+
+It should integrate many different considerations: what the customer wants, what assets you have, what you really like to do, what others outside your company can do, and what the personal and financial goals of the owners are. When you arrive at an answer you should be highly confident it is accurate. You cannot be changing your Core like other elements in this process. (That being said, it does happen that Cores change as you learn more about your market.)
+
+## What is probably not your Core?
+
+1. **Intellectual Property:** It is possible to be the Core but is depends heavily on the industry. In the medical industry, especially the biotech industry, patents are incredibly important but in others, they are not sufficient. For instance, teams with high levels of capability in an area will continually produce innovative goods, over time overwhelming a company that is built around one or a small number of patents.
+2. **Company Culture:** It can be an advantage to build the company culture and processes that innovates incredibly fast. However, this strategy is difficult to sustain as a unique Core as your organization scales, because as smaller companies enter the market, they will have advantages that allow them to be nimble as well. Do not rely solely on speed of innovation as Core, but rather use it as a motivator.
+3. **Competitive Position:** The customers very likely will not see your Core as the reason they buy from you. They will instead look at your Competitive Position (Step 11). Your Core will drive your ability to deliver certain benefits to the customer, which has to translate into value for the customer (based on the customer’s top priorities), which then leads to a better Competitive Position.
+4. **First-mover Advantage:** The term refers to a company being successful solely by being the first in the market. However, most companies that are first to market end up losing the market to a later entrant who outperforms the first company. It is advantage but cannot be your Core.
+5. **Locking up Suppliers:** One way to gain a competitive advantage is to anticipate the key elements of your solution and lock in vendors on an exclusive or a functionally exclusive arrangement. It is a good strategy to slow down your competitors but it is not your ultimate Core.
 
