@@ -278,6 +278,7 @@ If the Advocate or Primary Economic Buyer are not your Persona, you will want to
 Using the information from the Full Life Cycle Use Case and the DMU you should break the process to acquire a paying customer in steps and estimate how much time each step takes. This steps will usually include: lead generation, access to influencers, pre-purchase planning, purchasing, and installation. These elements will also have subelements.
 
 For each step in the process include:
+
  * Who are the key players from the DMU that will be involved?
  * What is their influence on the process? This is information you have already obtained in Step 12 but now we are putting it in temporal order.
  * What is their budget authority (amount and type)?
@@ -288,4 +289,12 @@ Key factor is the budgeting/purchasing authority of each individual included in 
 
 Another key factor is whether payment will be made from operating or lenger-term capital budget. In some companies, it may be much easier and faster to get approval to include an expense in the operating budget than in the capital budget; but with other industries and companies it may be exactly the opposite.
 
+# 14. Calculate the Total Addressable Market Size for Follow-on Markets
+
+Two types of follow-on markets:
+
+ * selling the same customer additional products or applications (upselling). One benefit is that you can use existing sales and distribution channels to sell the new products. However, making additional products will likely stretch your business beyond your Core, which may hurt your Competitive Position in those markets, unless your Core is something related to customer relationships.
+ * selling the same basic product to markets similar to your beachhead.
+
+Identify some follow-on markets and determine the Total Addressable Market (TAM) for those markets. Use all techniques from step 4. You need not and should not spend much time at all on this step right now. It's just to keep you (and investors in your company) cognizant of the long-term potential of your business.
 
