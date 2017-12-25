@@ -273,4 +273,19 @@ Operating in "inquiry" mode talk with the customer to gather information about t
 
 If the Advocate or Primary Economic Buyer are not your Persona, you will want to build a fact sheet similar to your Persona fact sheet for the individual in each role.
 
+# 13. Map the Process to Acquire a Paying Customer
+
+Using the information from the Full Life Cycle Use Case and the DMU you should break the process to acquire a paying customer in steps and estimate how much time each step takes. This steps will usually include: lead generation, access to influencers, pre-purchase planning, purchasing, and installation. These elements will also have subelements.
+
+For each step in the process include:
+ * Who are the key players from the DMU that will be involved?
+ * What is their influence on the process? This is information you have already obtained in Step 12 but now we are putting it in temporal order.
+ * What is their budget authority (amount and type)?
+ * How long will it take to complete each component you identify? List them in temporal sequence noting any that can run in parallel. (Be diligent.)
+ * What are the inputs and outputs of this step?
+
+Key factor is the budgeting/purchasing authority of each individual included in the process. For instance, if an individual can purcahse items up to $5000 without approval from a more senior person, you can shorten the sales cycle by reducing the price based on these limits.
+
+Another key factor is whether payment will be made from operating or lenger-term capital budget. In some companies, it may be much easier and faster to get approval to include an expense in the operating budget than in the capital budget; but with other industries and companies it may be exactly the opposite.
+
 
