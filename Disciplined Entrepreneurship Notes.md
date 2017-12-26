@@ -298,3 +298,38 @@ Two types of follow-on markets:
 
 Identify some follow-on markets and determine the Total Addressable Market (TAM) for those markets. Use all techniques from step 4. You need not and should not spend much time at all on this step right now. It's just to keep you (and investors in your company) cognizant of the long-term potential of your business.
 
+# 15. Design a Business Model
+
+The business model is hard to change on a latter stage so it's worth to spent time on figuring it out. The track record shows that companies that spend time and effort on innovative business models can see enormous payback.
+
+A business model is not pricing. It is a framework by which you extract from your customers some portion of the value your product creates for them.
+
+"Fremium" is not a business model, it can be a means to a certain end.
+
+## Key factors when designing a business model
+
+1. Customer: Understand what the customer will be willing to do.
+2. Value Creation and Capture: Assess how much value your product provides to your customer and when.
+3. Competition: Identify what your competition is doing.
+4. Distribution: Make sure your distribution channel has the right incentives to sell your product.
+
+## Generalized categories of business models
+
+1. One-time Up-Front Charge plus Maintenance
+2. Cost Plus: The customer pays a set percentage above the cost of producing the product. This model might be attractive when your product is immature and later migrate to a different model. It can also create incentives that reward activity rather than progress.
+3. Hourly Rates: Also tends to reward activity as opposed to progress.
+4. Subscription or Leasing Model: can be annual, multi-year, month-to-month, etc.
+5. Licensing: licensing intellectual property and selling it to customers.
+6. Consumables: low up-front cost and high-margin ongoing costs based on usage.
+7. Upsell with High-Margin Products: similar to consumables model - low-margin base product sold with high-margin add-ons.
+8. Advertising
+9. Reselling the Data Collected
+10. Transaction Fee: comission on generated sale.
+11. Usage-Based: pay for what you use.
+12. "Cell Phone" Plan: pay for basic package and pay more than that if you overuse it.
+13. Penalty Charges
+14. Microtransactions: small transactions for digital goods (e.g. in facebook games).
+15. Shared Savings: fixed percent from the profit made for the customer; usually hard to implement because it's hard meter the exact profit that the product makes.
+16. Franchise
+17. Operating and Maintenance
+
