@@ -333,3 +333,25 @@ A business model is not pricing. It is a framework by which you extract from you
 16. Franchise
 17. Operating and Maintenance
 
+# 16. Set Your Pricing Framework
+
+Whereas your Business Model is much less likely to change, price points are often subject to change based on market conditions. Your goal for the moment is to create a first-pass strategy that will allow you to calculate the Lifetime Value of an Acquired Customer, which along with the Cost of Customer Acquisition is an important variable that indicates the profitability of your business.
+
+## Basic pricing concepts
+
+1. Costs Shouldn’t Be a Factor in Deciding Price. Price should be based on the value the customer gets from the product, rather than on the costs. The exact fraction of this value depends on the competition and the industry, but 20 percent tends to be a reasonable starting point.
+  a. The percentage of customer value that you can capture depends on your business model and how much risk you are pushing onto your customer.
+  b. If costs come up in conversations about your product, make it clear that your price is not based on cost.
+  c. Don’t give out your cost numbers to anyone who does not have a real need to know. Definitely do not tell your sales group because any good salesperson will use any and all of their resources to make a sale.
+2. Use the DMU and the Process to Acquire a Paying Customer to Identify Key Price Points. Knowing an individual's purchasing authority limits can help reduce friction in the sales process.
+3. Understand the Prices of the Customer’s Alternatives. From the customer’s perspective, what are the alternative products available, and how much the customer would pay for each, including the status quo?
+4. Different Types of Customers Will Pay Different Prices.
+Geoffrey Moore breaks customers down into five waves:
+	a. **Technological enthusiasts** will only buy one but they want to have it right away hence willing to pay more.
+	b. **Early adopters** are also price-inelastic but are very interested in feeling like they got a special deal and will require lots of attention and extra service.
+	c. **The early majority (pragmatists)** is where you will make yourself a great and truly scalable company. That is the price point that most of us think about when we are talking about and planning for a pricing strategy.
+  d. **The late majority (conservatives)**
+  e. **Laggards/skeptics**
+5. Be Flexible with Pricing for Early Testers and "Lighthouse Customers". The first will collaborate with you to improve the product and the latter will influence purchasing decisions of other in the industry. Be flexible with pricing on these groups but do not give your product away to these customers, and do not discount any ongoing revenue streams. Have them sign an agreement where their pricing terms be kept confidential.
+6. It Is Always Easier to Drop the Price Than to Raise the Price.
+
